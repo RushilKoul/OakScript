@@ -3,5 +3,6 @@
 <h1 align="center">OakScript</h1>
 <div align = "center">
  A compiler written in Python.
- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+ <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+ <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </div>
