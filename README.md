@@ -12,14 +12,14 @@
 # Download and Installation
 <h2>Windows</h2>
 <ul type="bullet">
- <li>Install the package at [Releases](https://github.com/rushilkoul/oakscript/releases)</li>
+ <li>Install the Windows package at (Releases)[https://github.com/rushilkoul/oakscript/releases]</li>
  <li>Follow the installation steps.</li>
  <li>Retstart any active shells</li>
  <li>Done!</li>
 </ul>
 <h2>MacOS</h2>
 <ul type="bullet">
- <li>Install the package at [Releases](https://github.com/rushilkoul/oakscript/releases)</li>
+ <li>Install the MacOS package at (Releases)[https://github.com/rushilkoul/oakscript/releases]</li>
  <li>Follow the installation steps.</li>
  <li>Retstart any active shells</li>
  <li>Done!</li>
