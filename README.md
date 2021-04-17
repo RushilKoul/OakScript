@@ -1,4 +1,6 @@
 <image src = "./oakscript.png">
  
-# OakScript
-A compiler written in Python.
+<h1 align="center">OakScript</h1>
+<div align = "center">
+ A compiler written in Python.
+</div>
