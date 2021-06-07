@@ -9,18 +9,18 @@
  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </div>
 
-# Download and Installation
-<h2>Windows</h2>
-<ul type="bullet">
- <li>Install the Windows package at <a href="https://github.com/rushilkoul/oakscript/releases">Releases</a></li>
- <li>Follow the installation steps.</li>
- <li>Retstart any active shells</li>
- <li>Done!</li>
-</ul>
-<h2>MacOS</h2>
-<ul type="bullet">
- <li>Install the MacOS package at <a href="https://github.com/rushilkoul/oakscript/releases">Releases</a></li>
- <li>Follow the installation steps.</li>
- <li>Retstart any active shells</li>
- <li>Done!</li>
-</ul>
+* Make sure you have python installed.
+* Clone the repository using `git clone https://github.com/RushilKoul/OakScript.git`.
+* Once cloned, open the src directory using `cd OakScript/src`.
+* Run `shell.py` using the command line (`python shell.py`) or double-click on it.
+
+<h2 align="center"> If you wish to contribute, do the following. </h2>
+* Fork the repository.
+* Make the changes and commit them to the forked repo.
+* Make a pull request on this repo.
+* I will review them and consider the changes.
+
+<h2 align="center"> Issues </h2>
+If you have issues, please do the following:
+* Create an issue with a short, yet descriptive title
+* In the issue, please explain what the issue is, in depth, and how to recreate it.
