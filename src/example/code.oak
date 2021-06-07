@@ -1,0 +1,5 @@
+PRINT("Type something down here")
+VAR MyInput = INPUT()
+
+PRINT("You said:" )
+PRINT(MyInput)
